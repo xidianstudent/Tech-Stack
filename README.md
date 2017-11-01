@@ -10,6 +10,8 @@ Author:lbzhao
   * GCD
   * ARKit
   * CoreML
+- Android
+  * MediaCodec
 - 多媒体知识
   * 图像处理
   * OpenGL ES(2.0 3.0)
@@ -26,7 +28,8 @@ Author:lbzhao
   * LLDB
 - 开源项目研究
   * GPUImage
-  * ijkplayereeerere
+  * ijkplayer
   * SCRecorder
+  * ffmpeg
 - 其他
   * MarkDown语法
