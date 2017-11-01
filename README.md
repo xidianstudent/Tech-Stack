@@ -1,11 +1,26 @@
-# Tech-Stack
-<<<<<<< HEAD
+#技术栈
+
 Author:lbzhao
 
-topic: technolog stack
-
-i love game
-=======
-my technology stack
-good boy
->>>>>>> dev2
+##知识列表
+- iOS
+  * AVFoundation
+  * CoreImage
+  * CoreAnimation
+  * GCD
+  * ARKit
+  * CoreML
+- 多媒体知识
+  * 图像处理
+  * OpenGL ES(2.0 3.0)
+  * 视频技术
+  * 音频技术
+- 深度学习
+  * Tensorflow
+  * Keras
+  * 深度学习理论
+- 工程配置
+  * Cmake
+  * Git
+  * GDB
+  * LLDB
