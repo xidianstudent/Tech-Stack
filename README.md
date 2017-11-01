@@ -26,7 +26,7 @@ Author:lbzhao
   * LLDB
 - 开源项目研究
   * GPUImage
-  * ijkplayer
+  * ijkplayereeerere
   * SCRecorder
 - 其他
   * MarkDown语法
