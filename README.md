@@ -7,6 +7,7 @@ Author:lbzhao
   * AVFoundation
   * CoreImage
   * CoreAnimation
+  * CoreMedia
   * CoreMotion
   * GCD
   * ARKit
