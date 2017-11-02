@@ -33,3 +33,4 @@ Author:lbzhao
   * ffmpeg
 - 其他
   * MarkDown语法
+  * Python
