@@ -5,6 +5,7 @@ Author:lbzhao
 ##知识列表
 - iOS
   * AVFoundation
+  * CoreGraphics
   * CoreImage
   * CoreAnimation
   * CoreMedia
