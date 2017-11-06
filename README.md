@@ -11,6 +11,7 @@ Author:lbzhao
   * CoreMedia
   * CoreMotion
   * GCD
+  * Accelerate(vImage)
   * ARKit
   * CoreML
 - Android
