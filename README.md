@@ -35,6 +35,9 @@ Author:lbzhao
   * ijkplayer
   * SCRecorder
   * ffmpeg
+  * VideoCore
+  * LFLiveKit
+  * RosyWriter
 - 其他
   * MarkDown语法
   * Python
